@@ -14,6 +14,10 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
 
+  <a href="https://gustavoschimidt.medium.com/" target="_blank">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+
   <br/> <br/>
 I'm Gustavo Schimidt, a dedicated Backend Software Engineer holding a Bachelor's degree in Computer Engineering. My professional trajectory in the technology landscape has been both challenging and rewarding, and I'm eager to provide you with insights into my journey.
 
